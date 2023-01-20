@@ -27,7 +27,7 @@ steps:
 - task: CopyFiles@2
   inputs:
     SourceFolder: '$(Build.SourcesDirectory)/sharepoint/solution'
-    Contents: 'my-first-web-part.sppkg'
+    Contents: 'spfx-first-sarath.sppkg'
     TargetFolder: '$(Build.ArtifactStagingDirectory)'
 
 - task: PublishBuildArtifacts@1
