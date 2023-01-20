@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "16.19.0",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.4.1"
+    },
+    "version": "1.16.1",
+    "libraryName": "spfx-first-sarath",
+    "libraryId": "7e16f038-5ce6-46d7-be05-2e44ad0d8299",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "SPFXFirstSarath",
+    "solutionShortDescription": "SPFXFirstSarath description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

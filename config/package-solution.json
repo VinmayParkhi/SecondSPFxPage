@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "spfx-first-sarath-client-side-solution",
+    "id": "7e16f038-5ce6-46d7-be05-2e44ad0d8299",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.16.1"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "SPFXFirstSarath description"
+      },
+      "longDescription": {
+        "default": "SPFXFirstSarath description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "spfx-first-sarath Feature",
+        "description": "The feature that activates elements of the spfx-first-sarath solution.",
+        "id": "86ba6ac2-f84a-4b53-931c-11487c1eb512",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/spfx-first-sarath.sppkg"
+  }
+}
