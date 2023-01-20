@@ -30,6 +30,7 @@ export default class HelloSarathWebPart extends BaseClientSideWebPart<IHelloSara
       </div>
       <div>
         <h1>Hi, This is Sarath</h1>
+        <h2>This is the second web part</h2>
         <h3>Welcome to SharePoint Framework!</h3>
         <p>
         The SharePoint Framework (SPFx) is a extensibility model for Microsoft Viva, Microsoft Teams and SharePoint. It's the easiest way to extend Microsoft 365 with automatic Single Sign On, automatic hosting and industry standard tooling.
