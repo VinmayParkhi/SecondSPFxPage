@@ -29,7 +29,7 @@ export default class HelloSpfxWebPart extends BaseClientSideWebPart<IHelloSpfxWe
         <div>Web part property value: <strong>${escape(this.properties.description)}</strong></div>
       </div>
       <div>
-        <h1>Hello Sarath, welcome to SPFX</h1>
+        <h1>Hello Vinmay, welcome to SPFX</h1>
         <h1>welcome to new SPFX</h1>
         <h3>Welcome to SharePoint Framework 2.0!</h3>
         <p>
