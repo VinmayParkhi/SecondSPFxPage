@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "sarath-test-spfx-client-side-solution",
+    "id": "31f3c44f-e03f-4260-a081-181331800116",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.16.1"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "SarathTestSPFX description"
+      },
+      "longDescription": {
+        "default": "SarathTestSPFX description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "sarath-test-spfx Feature",
+        "description": "The feature that activates elements of the sarath-test-spfx solution.",
+        "id": "c9fbe947-be6b-4b86-a6cf-3bd3332556fc",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/sarath-test-spfx.sppkg"
+  }
+}
