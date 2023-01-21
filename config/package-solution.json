@@ -3,7 +3,7 @@
   "solution": {
     "name": "spfx-first-sarath-client-side-solution",
     "id": "7e16f038-5ce6-46d7-be05-2e44ad0d8299",
-    "version": "1.0.0.0",
+    "version": "1.1.0.0",
     "includeClientSideAssets": true,
     "skipFeatureDeployment": true,
     "isDomainIsolated": false,
